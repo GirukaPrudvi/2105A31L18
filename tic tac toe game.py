@@ -1,4 +1,4 @@
-#game
+
 board = [['','',''],['','',''],['','','']]
 def print_board(board):
     print(*board[0], sep="  |  ")
